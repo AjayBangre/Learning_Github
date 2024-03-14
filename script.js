@@ -5,3 +5,5 @@ function add(value) {
 }
 
 console.log(add(a));
+
+console.log("Hello");
